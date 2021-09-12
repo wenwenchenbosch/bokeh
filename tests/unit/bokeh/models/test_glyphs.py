@@ -227,6 +227,8 @@ def test_Image() -> None:
         "dh_units",
         "global_alpha",
         "dilate",
+        "origin",
+        "anchor",
         "color_mapper",
     ], GLYPH)
 
@@ -249,6 +251,8 @@ def test_ImageRGBA() -> None:
         "dh_units",
         "global_alpha",
         "dilate",
+        "origin",
+        "anchor",
     ], GLYPH)
 
 
